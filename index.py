@@ -1,6 +1,5 @@
 # import the pygame module
 import pygame
-import pygame
 import pandas as pd 
 import numpy as np 
 import time 
